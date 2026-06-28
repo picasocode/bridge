@@ -1,0 +1,6 @@
+{
+  "name": "Live Call & Meet Translator",
+  "description": "A high-fidelity mobile-first PWA featuring real-time translated voice calls and translated virtual business meetings powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
